@@ -1,2 +1,3 @@
 instructions
 step 1: subscribe to the etc podcast
+this instruction is for red only
